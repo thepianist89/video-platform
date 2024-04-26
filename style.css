@@ -408,6 +408,9 @@ body {
   transition: box-shadow 0.3s ease;
 }
 
+.right-section .playlist > video:hover {
+  box-shadow: none;
+}
 .right-section .playlist .other-imgs {
   width: 86%;
   position: absolute;
